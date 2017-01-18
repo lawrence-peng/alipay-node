@@ -1,5 +1,5 @@
 {
-  "name": "alipay-node",
+  "name": "alipay-nodejs",
   "version": "0.0.1",
   "description": "alipay api",
   "main": "index.js",

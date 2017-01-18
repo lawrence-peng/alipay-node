@@ -1,16 +1,16 @@
-# alipay-node
+# alipay-nodejs
 支付宝支付 for node.js
 
 ## Installation
 ```
-npm install alipay-node
+npm install alipay-nodejs
 ```
 
 ## Usage
 
 获取APP支付签名后订单参数
 ```js
-var Alipay = require('alipay-node');
+var Alipay = require('alipay-nodejs');
 
 var pay = new Alipay({
 	app_id: 'xxxxxxxx',
